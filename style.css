@@ -1,0 +1,7 @@
+header{
+  background-color: rgb(0,0,0);
+  background: linear-gradient(90deg, rgb(65, 39, 29) 0%, rgb(138, 77, 49) 29%, rgb(252, 235, 227) 100%);}
+
+.cabeçalho-imagem{
+  width: 20% ;
+}
